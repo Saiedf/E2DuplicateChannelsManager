@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E2DuplicateChannelsManager 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+
+msgid "About and safety rules"
+msgstr "Informace a bezpečnostní pravidla"
+
+msgid "All / none"
+msgstr "Vše / žádné"
+
+msgid "All satellites"
+msgstr "Všechny satelity"
+
+msgid "Back"
+msgstr "Zpět"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Channel name"
+msgstr "Název kanálu"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Create backup only"
+msgstr "Vytvořit pouze zálohu"
+
+msgid "East"
+msgstr "Východ"
+
+msgid "Execute"
+msgstr "Provést"
+
+msgid "First"
+msgstr "První"
+
+msgid "Keep rule"
+msgstr "Pravidlo zachování"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "OFF"
+msgstr "VYP"
+
+msgid "ON"
+msgstr "ZAP"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Picon"
+msgstr "Picon"
+
+msgid "Position"
+msgstr "Pozice"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Restore a previous backup"
+msgstr "Obnovit předchozí zálohu"
+
+msgid "Review selected"
+msgstr "Zkontrolovat vybrané"
+
+msgid "Run automatic cleanup now"
+msgstr "Spustit automatické čištění"
+
+msgid "Safety model:\n- watches changes to lamedb, lamedb5 and bouquet files\n- waits until changed files are stable before cleanup\n- creates a complete backup before every write\n- rolls back automatically after a write failure\n- never removes a service reference that has a Picon\n- never deletes, renames, copies or links Picon files\n- replaces bouquet references before deleting unprotected lamedb duplicates\n- if several duplicates all have Picons, they remain protected and are reported"
+msgstr "Bezpečnostní model:\n- sleduje změny v lamedb, lamedb5 a souborech bouquetů\n- před čištěním čeká, až budou změněné soubory stabilní\n- před každým zápisem vytvoří úplnou zálohu\n- po chybě zápisu automaticky obnoví předchozí stav\n- nikdy neodstraní odkaz na službu s Piconem\n- nikdy nemaže, nepřejmenovává, nekopíruje ani neodkazuje soubory Picon\n- před odstraněním nechráněných duplicit lamedb nahradí odkazy bouquetů\n- pokud má více duplicit Picon, zůstanou chráněné a jsou nahlášeny"
+
+msgid "Satellite"
+msgstr "Satelit"
+
+msgid "Satellites"
+msgstr "Satelity"
+
+msgid "Scan and review duplicates"
+msgstr "Vyhledat a zkontrolovat duplicity"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "Switch"
+msgstr "Přepnout"
+
+msgid "Sync files"
+msgstr "Synchronizovat soubory"
+
+msgid "Total"
+msgstr "Celkem"
+
+msgid "Unknown satellite"
+msgstr "Neznámý satelit"
+
+msgid "View operation log"
+msgstr "Zobrazit protokol operací"
+
+msgid "West"
+msgstr "Západ"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "Yes/No"
+msgstr "Ano/Ne"

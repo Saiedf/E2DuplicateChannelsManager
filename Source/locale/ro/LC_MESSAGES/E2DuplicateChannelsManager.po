@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E2DuplicateChannelsManager 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+
+msgid "About and safety rules"
+msgstr "Despre și reguli de siguranță"
+
+msgid "All / none"
+msgstr "Toți / niciunul"
+
+msgid "All satellites"
+msgstr "Toți sateliții"
+
+msgid "Back"
+msgstr "Înapoi"
+
+msgid "Cancel"
+msgstr "Anulează"
+
+msgid "Channel name"
+msgstr "Nume canal"
+
+msgid "Close"
+msgstr "Închide"
+
+msgid "Create backup only"
+msgstr "Creează doar copie de rezervă"
+
+msgid "East"
+msgstr "Est"
+
+msgid "Execute"
+msgstr "Execută"
+
+msgid "First"
+msgstr "Primul"
+
+msgid "Keep rule"
+msgstr "Regulă de păstrare"
+
+msgid "Menu"
+msgstr "Meniu"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "OFF"
+msgstr "OPRIT"
+
+msgid "ON"
+msgstr "PORNIT"
+
+msgid "Options"
+msgstr "Opțiuni"
+
+msgid "Picon"
+msgstr "Picon"
+
+msgid "Position"
+msgstr "Poziție"
+
+msgid "Remove"
+msgstr "Elimină"
+
+msgid "Restore a previous backup"
+msgstr "Restaurează o copie anterioară"
+
+msgid "Review selected"
+msgstr "Verifică selecția"
+
+msgid "Run automatic cleanup now"
+msgstr "Rulează curățarea automată"
+
+msgid "Safety model:\n- watches changes to lamedb, lamedb5 and bouquet files\n- waits until changed files are stable before cleanup\n- creates a complete backup before every write\n- rolls back automatically after a write failure\n- never removes a service reference that has a Picon\n- never deletes, renames, copies or links Picon files\n- replaces bouquet references before deleting unprotected lamedb duplicates\n- if several duplicates all have Picons, they remain protected and are reported"
+msgstr "Model de siguranță:\n- monitorizează modificările din lamedb, lamedb5 și fișierele bouquet\n- așteaptă ca fișierele modificate să fie stabile înainte de curățare\n- creează o copie de siguranță completă înainte de fiecare scriere\n- revine automat după un eșec de scriere\n- nu elimină niciodată o referință de serviciu cu Picon\n- nu șterge, redenumește, copiază și nu leagă niciodată fișiere Picon\n- înlocuiește referințele bouquet înainte de ștergerea duplicatelor lamedb neprotejate\n- dacă mai multe duplicate au Picon, rămân protejate și sunt raportate"
+
+msgid "Satellite"
+msgstr "Satelit"
+
+msgid "Satellites"
+msgstr "Sateliți"
+
+msgid "Scan and review duplicates"
+msgstr "Scanează și verifică duplicatele"
+
+msgid "Select"
+msgstr "Selectează"
+
+msgid "Switch"
+msgstr "Comută"
+
+msgid "Sync files"
+msgstr "Sincronizează fișierele"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Unknown satellite"
+msgstr "Satelit necunoscut"
+
+msgid "View operation log"
+msgstr "Vezi jurnalul"
+
+msgid "West"
+msgstr "Vest"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Yes/No"
+msgstr "Da/Nu"

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E2DuplicateChannelsManager 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+
+msgid "About and safety rules"
+msgstr "Sobre e regras de segurança"
+
+msgid "All / none"
+msgstr "Todos / nenhum"
+
+msgid "All satellites"
+msgstr "Todos os satélites"
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Channel name"
+msgstr "Nome do canal"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Create backup only"
+msgstr "Criar apenas cópia de segurança"
+
+msgid "East"
+msgstr "Leste"
+
+msgid "Execute"
+msgstr "Executar"
+
+msgid "First"
+msgstr "Primeiro"
+
+msgid "Keep rule"
+msgstr "Regra de manutenção"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "No"
+msgstr "Não"
+
+msgid "OFF"
+msgstr "DESLIGADO"
+
+msgid "ON"
+msgstr "LIGADO"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Picon"
+msgstr "Picon"
+
+msgid "Position"
+msgstr "Posição"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Restore a previous backup"
+msgstr "Restaurar cópia anterior"
+
+msgid "Review selected"
+msgstr "Rever selecionados"
+
+msgid "Run automatic cleanup now"
+msgstr "Executar limpeza automática"
+
+msgid "Safety model:\n- watches changes to lamedb, lamedb5 and bouquet files\n- waits until changed files are stable before cleanup\n- creates a complete backup before every write\n- rolls back automatically after a write failure\n- never removes a service reference that has a Picon\n- never deletes, renames, copies or links Picon files\n- replaces bouquet references before deleting unprotected lamedb duplicates\n- if several duplicates all have Picons, they remain protected and are reported"
+msgstr "Modelo de segurança:\n- monitoriza alterações em lamedb, lamedb5 e ficheiros de bouquets\n- aguarda que os ficheiros alterados estejam estáveis antes da limpeza\n- cria uma cópia de segurança completa antes de cada escrita\n- reverte automaticamente após uma falha de escrita\n- nunca remove uma referência de serviço com um Picon\n- nunca elimina, renomeia, copia ou cria ligações para ficheiros Picon\n- substitui referências de bouquets antes de eliminar duplicados lamedb não protegidos\n- se vários duplicados tiverem Picons, permanecem protegidos e são comunicados"
+
+msgid "Satellite"
+msgstr "Satélite"
+
+msgid "Satellites"
+msgstr "Satélites"
+
+msgid "Scan and review duplicates"
+msgstr "Procurar e rever duplicados"
+
+msgid "Select"
+msgstr "Selecionar"
+
+msgid "Switch"
+msgstr "Alternar"
+
+msgid "Sync files"
+msgstr "Sincronizar ficheiros"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Unknown satellite"
+msgstr "Satélite desconhecido"
+
+msgid "View operation log"
+msgstr "Ver registo"
+
+msgid "West"
+msgstr "Oeste"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "Yes/No"
+msgstr "Sim/Não"

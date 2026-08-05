@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E2DuplicateChannelsManager 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+
+msgid "About and safety rules"
+msgstr "درباره و قوانین ایمنی"
+
+msgid "All / none"
+msgstr "همه / هیچ‌کدام"
+
+msgid "All satellites"
+msgstr "همه ماهواره‌ها"
+
+msgid "Back"
+msgstr "بازگشت"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Channel name"
+msgstr "نام کانال"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "Create backup only"
+msgstr "فقط نسخه پشتیبان ایجاد کن"
+
+msgid "East"
+msgstr "شرق"
+
+msgid "Execute"
+msgstr "اجرا"
+
+msgid "First"
+msgstr "اول"
+
+msgid "Keep rule"
+msgstr "قانون نگهداری"
+
+msgid "Menu"
+msgstr "منو"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "OFF"
+msgstr "خاموش"
+
+msgid "ON"
+msgstr "روشن"
+
+msgid "Options"
+msgstr "گزینه‌ها"
+
+msgid "Picon"
+msgstr "پیکون"
+
+msgid "Position"
+msgstr "موقعیت"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Restore a previous backup"
+msgstr "بازیابی نسخه پشتیبان قبلی"
+
+msgid "Review selected"
+msgstr "بازبینی انتخاب‌شده"
+
+msgid "Run automatic cleanup now"
+msgstr "پاک‌سازی خودکار را اجرا کن"
+
+msgid "Safety model:\n- watches changes to lamedb, lamedb5 and bouquet files\n- waits until changed files are stable before cleanup\n- creates a complete backup before every write\n- rolls back automatically after a write failure\n- never removes a service reference that has a Picon\n- never deletes, renames, copies or links Picon files\n- replaces bouquet references before deleting unprotected lamedb duplicates\n- if several duplicates all have Picons, they remain protected and are reported"
+msgstr "مدل ایمنی:\n- تغییرات lamedb، lamedb5 و فایل‌های بوکه را پایش می‌کند\n- پیش از پاک‌سازی منتظر پایدار شدن فایل‌های تغییرکرده می‌ماند\n- پیش از هر نوشتن یک نسخه پشتیبان کامل ایجاد می‌کند\n- پس از خطای نوشتن خودکار بازگردانی می‌کند\n- هرگز مرجع سرویسی را که Picon دارد حذف نمی‌کند\n- هرگز فایل‌های Picon را حذف، تغییرنام، کپی یا پیوند نمی‌کند\n- پیش از حذف تکراری‌های محافظت‌نشده lamedb، مراجع بوکه را جایگزین می‌کند\n- اگر چند تکراری همگی Picon داشته باشند، محافظت و گزارش می‌شوند"
+
+msgid "Satellite"
+msgstr "ماهواره"
+
+msgid "Satellites"
+msgstr "ماهواره‌ها"
+
+msgid "Scan and review duplicates"
+msgstr "اسکن و بازبینی تکراری‌ها"
+
+msgid "Select"
+msgstr "انتخاب"
+
+msgid "Switch"
+msgstr "تغییر"
+
+msgid "Sync files"
+msgstr "همگام‌سازی فایل‌ها"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "Unknown satellite"
+msgstr "ماهواره ناشناخته"
+
+msgid "View operation log"
+msgstr "نمایش گزارش عملیات"
+
+msgid "West"
+msgstr "غرب"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Yes/No"
+msgstr "بله/خیر"

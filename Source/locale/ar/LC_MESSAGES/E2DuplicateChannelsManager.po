@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E2DuplicateChannelsManager 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+
+msgid "A new version is available: %s\nCurrent version: %s\n\nDo you want to download and install the update now?\nA plugin backup is created first."
+msgstr "يتوفر إصدار جديد: %s\nالإصدار الحالي: %s\n\nهل تريد تنزيل التحديث وتثبيته الآن؟\nسيتم إنشاء نسخة احتياطية من البلاجين أولًا."
+
+msgid "About and safety rules"
+msgstr "حول وقواعد الأمان"
+
+msgid "Action"
+msgstr "الإجراء"
+
+msgid "All / none"
+msgstr "الكل / لا شيء"
+
+msgid "All satellites"
+msgstr "جميع الأقمار"
+
+msgid "Back"
+msgstr "رجوع"
+
+msgid "Backup and restore"
+msgstr "النسخ الاحتياطي والاستعادة"
+
+msgid "Backup created:\n%s"
+msgstr "تم إنشاء النسخة الاحتياطية:\n%s"
+
+msgid "Backup failed:\n%s"
+msgstr "فشل إنشاء النسخة الاحتياطية:\n%s"
+
+msgid "Backup restored.\nPre-restore safety backup: %s"
+msgstr "تمت استعادة النسخة الاحتياطية.\nنسخة الأمان قبل الاستعادة: %s"
+
+msgid "Bottom"
+msgstr "النهاية"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Channel files synchronized successfully:\n%s"
+msgstr "تمت مزامنة ملفات القنوات بنجاح:\n%s"
+
+msgid "Channel name"
+msgstr "اسم القناة"
+
+msgid "Channel-file sync completed with warnings:\n%s"
+msgstr "اكتملت مزامنة ملفات القنوات مع تحذيرات:\n%s"
+
+msgid "Channel: %s"
+msgstr "القناة: %s"
+
+msgid "Channels Screen"
+msgstr "شاشة القنوات"
+
+msgid "Channels kept after removal: %d"
+msgstr "القنوات المحتفَظ بها بعد الحذف: %d"
+
+msgid "Channels to remove: %d"
+msgstr "القنوات المراد حذفها: %d"
+
+msgid "Check for new version at startup"
+msgstr "التحقق من إصدار جديد عند بدء التشغيل"
+
+msgid "Choose a backup"
+msgstr "اختر نسخة احتياطية"
+
+msgid "Choose a backup from another folder"
+msgstr "اختر نسخة احتياطية من مجلد آخر"
+
+msgid "Choose a satellite, review removable duplicate groups, then select the groups you want to clean."
+msgstr "اختر قمرًا صناعيًا، وراجع مجموعات التكرارات القابلة للحذف، ثم حدد المجموعات التي تريد تنظيفها."
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "Compatibility mode (automatic): %s\nPython: %s | Package system: %s\nAutomatic cleanup runs after channel database changes become stable."
+msgstr "وضع التوافق (تلقائي): %s\nبايثون: %s | نظام الحزم: %s\nيعمل التنظيف التلقائي بعد استقرار تغييرات قاعدة القنوات."
+
+msgid "Could not save update-check setting:\n%s"
+msgstr "تعذر حفظ إعداد التحقق من التحديثات:\n%s"
+
+msgid "Create a manual backup now"
+msgstr "إنشاء نسخة احتياطية يدوية الآن"
+
+msgid "Create backup only"
+msgstr "إنشاء نسخة احتياطية فقط"
+
+msgid "Creates a complete backup of channel databases and bouquet files without changing any channels."
+msgstr "ينشئ نسخة احتياطية كاملة من قواعد بيانات القنوات وملفات الباقات دون تغيير أي قناة."
+
+msgid "DreamOS / Dreambox"
+msgstr "DreamOS / Dreambox"
+
+msgid "East"
+msgstr "شرق"
+
+msgid "Execute"
+msgstr "تنفيذ"
+
+msgid "Explains the protection rules for Picon-linked services, channel files, backups, and automatic rollback."
+msgstr "يشرح قواعد حماية الخدمات المرتبطة بـPicon وملفات القنوات والنسخ الاحتياطية والاستعادة التلقائية."
+
+msgid "First"
+msgstr "الأول"
+
+msgid "Generic Enigma2"
+msgstr "Enigma2 عام"
+
+msgid "KEEP"
+msgstr "احتفاظ"
+
+msgid "KEEP FOR SAFETY"
+msgstr "احتفاظ للأمان"
+
+msgid "Keep rule"
+msgstr "قاعدة الاحتفاظ"
+
+msgid "Latest operation messages"
+msgstr "أحدث رسائل العمليات"
+
+msgid "Log lines: %d"
+msgstr "أسطر السجل: %d"
+
+msgid "Menu"
+msgstr "القائمة"
+
+msgid "No"
+msgstr "لا"
+
+msgid "No Picon"
+msgstr "لا يوجد Picon"
+
+msgid "No channels are selected for removal."
+msgstr "لا توجد قنوات محددة للحذف."
+
+msgid "No operation log is available yet."
+msgstr "لا يتوفر سجل عمليات حتى الآن."
+
+msgid "No removable duplicate channel names were found."
+msgstr "لم يُعثر على أسماء قنوات مكررة قابلة للحذف."
+
+msgid "Not required"
+msgstr "غير مطلوب"
+
+msgid "Nothing needs to be changed."
+msgstr "لا توجد تغييرات مطلوبة."
+
+msgid "OFF"
+msgstr "إيقاف"
+
+msgid "OK changes Yes/No. Green confirms the selected satellite."
+msgstr "زر OK يغيّر حالة الاختيار. الزر الأخضر يؤكد القمر المحدد."
+
+msgid "OK or Green: switch ON/OFF. Red: back."
+msgstr "OK أو الأخضر: تشغيل/إيقاف. الأحمر: رجوع."
+
+msgid "OK: select/unselect channel | Green: review selected | Yellow: satellite | Blue: select all/none. Picon-linked services are always protected."
+msgstr "OK: اختيار/إلغاء القناة | الأخضر: مراجعة المحدد | الأصفر: القمر | الأزرق: تحديد الكل/إلغاء الكل. المراجع المرتبطة بـPicon محمية دائمًا."
+
+msgid "ON"
+msgstr "تشغيل"
+
+msgid "Open Source / OpenPLi / OpenATV"
+msgstr "مفتوح المصدر / OpenPLi / OpenATV"
+
+msgid "Operation Log"
+msgstr "سجل العمليات"
+
+msgid "Options"
+msgstr "الخيارات"
+
+msgid "PROTECTED BY PICON"
+msgstr "محمي بواسطة Picon"
+
+msgid "Picon"
+msgstr "بيكون"
+
+msgid "Plugin options"
+msgstr "خيارات البلاجين"
+
+msgid "Position"
+msgstr "الموقع المداري"
+
+msgid "REMOVE"
+msgstr "حذف"
+
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Removal Review"
+msgstr "مراجعة الحذف"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Restore a previous backup"
+msgstr "استعادة نسخة احتياطية سابقة"
+
+msgid "Restore failed:\n%s"
+msgstr "فشلت الاستعادة:\n%s"
+
+msgid "Restore: %s"
+msgstr "استعادة: %s"
+
+msgid "Restored successfully.\nSafety backup: %s"
+msgstr "تمت الاستعادة بنجاح.\nنسخة الأمان: %s"
+
+msgid "Restores a saved backup after first creating a safety backup of the current channel configuration."
+msgstr "يستعيد نسخة احتياطية محفوظة بعد إنشاء نسخة أمان أولًا من إعدادات القنوات الحالية."
+
+msgid "Review REMOVE and KEEP rows. KEEP rows are protected and cannot be deleted. Green creates a backup, then executes; Red cancels."
+msgstr "راجع صفوف الحذف والاحتفاظ. صفوف الاحتفاظ محمية ولا يمكن حذفها. الأخضر ينشئ نسخة احتياطية ثم ينفذ، والأحمر يلغي."
+
+msgid "Review selected"
+msgstr "مراجعة المحدد"
+
+msgid "Run automatic cleanup now"
+msgstr "تشغيل التنظيف التلقائي الآن"
+
+msgid "Safety model:\n- watches changes to lamedb, lamedb5 and bouquet files\n- waits until changed files are stable before cleanup\n- creates a complete backup before every write\n- rolls back automatically after a write failure\n- never removes a service reference that has a Picon\n- never deletes, renames, copies or links Picon files\n- replaces bouquet references before deleting unprotected lamedb duplicates\n- if several duplicates all have Picons, they remain protected and are reported"
+msgstr "نموذج الأمان:\n- يراقب التغييرات في ملفات lamedb وlamedb5 والباقات\n- ينتظر حتى تستقر الملفات التي تغيّرت قبل التنظيف\n- ينشئ نسخة احتياطية كاملة قبل كل عملية كتابة\n- يستعيد الحالة السابقة تلقائيًا إذا فشلت الكتابة\n- لا يحذف مرجع خدمة مرتبطًا بـPicon مطلقًا\n- لا يحذف أو يعيد تسمية أو ينسخ أو ينشئ روابط لملفات Picon\n- يستبدل مراجع الباقات قبل حذف تكرارات lamedb غير المحمية\n- إذا كانت عدة مراجع مكررة مرتبطة بـPicon، تبقى محمية ويُبلّغ عنها"
+
+msgid "Satellite"
+msgstr "قمر صناعي"
+
+msgid "Satellite Screen"
+msgstr "شاشة الأقمار"
+
+msgid "Satellite list failed:\n%s"
+msgstr "فشل عرض قائمة الأقمار:\n%s"
+
+msgid "Satellite scan failed:\n%s"
+msgstr "فشل فحص القمر:\n%s"
+
+msgid "Satellite: %s | Selected: %d/%d"
+msgstr "القمر: %s | المحدد: %d/%d"
+
+msgid "Satellites"
+msgstr "الأقمار الصناعية"
+
+msgid "Scan and review duplicates"
+msgstr "فحص ومراجعة التكرارات"
+
+msgid "Scans all satellites now and removes only unprotected duplicates after creating a backup."
+msgstr "يفحص جميع الأقمار الآن ويحذف التكرارات غير المحمية فقط بعد إنشاء نسخة احتياطية."
+
+msgid "Select"
+msgstr "اختيار"
+
+msgid "Select Scan and review duplicates to choose a satellite. Yellow: options. Blue: sync channel files."
+msgstr "اختر فحص ومراجعة التكرارات لاختيار قمر. الأصفر: خيارات. الأزرق: مزامنة ملفات القنوات."
+
+msgid "Select at least one duplicate channel with OK first."
+msgstr "حدد قناة مكررة واحدة على الأقل بزر OK أولًا."
+
+msgid "Service reference"
+msgstr "مرجع الخدمة"
+
+msgid "Services selected for removal: %d"
+msgstr "مراجع الخدمات المحددة للحذف: %d"
+
+msgid "Shows recent scan, backup, cleanup, synchronization, and error messages."
+msgstr "يعرض أحدث رسائل الفحص والنسخ الاحتياطي والتنظيف والمزامنة والأخطاء."
+
+msgid "Switch"
+msgstr "تبديل"
+
+msgid "Sync files"
+msgstr "مزامنة الملفات"
+
+msgid "This image does not provide a channel-database sync API."
+msgstr "هذه الصورة لا توفر واجهة لمزامنة قاعدة القنوات."
+
+msgid "Top"
+msgstr "البداية"
+
+msgid "Total"
+msgstr "الإجمالي"
+
+msgid "Unknown satellite"
+msgstr "قمر غير معروف"
+
+msgid "Unnamed service"
+msgstr "خدمة بلا اسم"
+
+msgid "Up/Down: scroll | Yellow: top | Blue: bottom | Green: refresh."
+msgstr "أعلى/أسفل: تمرير | الأصفر: البداية | الأزرق: النهاية | الأخضر: تحديث."
+
+msgid "Update completed successfully.\nVersion: %s\nUpdated files: %d\nBackup: %s\n\nRestart the Enigma2 GUI to activate the new version."
+msgstr "اكتمل التحديث بنجاح.\nالإصدار: %s\nالملفات المحدّثة: %d\nالنسخة الاحتياطية: %s\n\nأعد تشغيل واجهة Enigma2 لتفعيل الإصدار الجديد."
+
+msgid "Update failed. The installed plugin was kept unchanged.\n%s"
+msgstr "فشل التحديث. بقي البلاجين المثبت دون تغيير.\n%s"
+
+msgid "Use arrows and OK to select/unselect.\nPress Green to confirm the satellite."
+msgstr "استخدم الأسهم وزر OK للاختيار أو الإلغاء.\nاضغط الأخضر لتأكيد القمر."
+
+msgid "Ver : %s"
+msgstr "الإصدار: %s"
+
+msgid "View operation log"
+msgstr "عرض سجل العمليات"
+
+msgid "West"
+msgstr "غرب"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "Yes/No"
+msgstr "نعم/لا"
+
+msgid "Yes/No    Satellites                                      Position"
+msgstr "نعم/لا    الأقمار الصناعية                              الموقع"

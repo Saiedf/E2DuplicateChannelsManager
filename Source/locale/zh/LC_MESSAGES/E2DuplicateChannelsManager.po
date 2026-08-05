@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E2DuplicateChannelsManager 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+
+msgid "About and safety rules"
+msgstr "关于和安全规则"
+
+msgid "All / none"
+msgstr "全部 / 无"
+
+msgid "All satellites"
+msgstr "所有卫星"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Channel name"
+msgstr "频道名称"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Create backup only"
+msgstr "仅创建备份"
+
+msgid "East"
+msgstr "东"
+
+msgid "Execute"
+msgstr "执行"
+
+msgid "First"
+msgstr "第一个"
+
+msgid "Keep rule"
+msgstr "保留规则"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "No"
+msgstr "否"
+
+msgid "OFF"
+msgstr "关"
+
+msgid "ON"
+msgstr "开"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Picon"
+msgstr "Picon"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Restore a previous backup"
+msgstr "恢复以前的备份"
+
+msgid "Review selected"
+msgstr "查看所选项"
+
+msgid "Run automatic cleanup now"
+msgstr "立即运行自动清理"
+
+msgid "Safety model:\n- watches changes to lamedb, lamedb5 and bouquet files\n- waits until changed files are stable before cleanup\n- creates a complete backup before every write\n- rolls back automatically after a write failure\n- never removes a service reference that has a Picon\n- never deletes, renames, copies or links Picon files\n- replaces bouquet references before deleting unprotected lamedb duplicates\n- if several duplicates all have Picons, they remain protected and are reported"
+msgstr "安全模式：\n- 监视 lamedb、lamedb5 和频道组文件的更改\n- 在清理前等待已更改文件稳定\n- 每次写入前创建完整备份\n- 写入失败后自动回滚\n- 绝不删除带有 Picon 的服务引用\n- 绝不删除、重命名、复制或链接 Picon 文件\n- 在删除未受保护的 lamedb 重复项前替换频道组引用\n- 如果多个重复项都有 Picon，它们将保持受保护状态并被报告"
+
+msgid "Satellite"
+msgstr "卫星"
+
+msgid "Satellites"
+msgstr "卫星"
+
+msgid "Scan and review duplicates"
+msgstr "扫描并检查重复频道"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Switch"
+msgstr "切换"
+
+msgid "Sync files"
+msgstr "同步文件"
+
+msgid "Total"
+msgstr "总数"
+
+msgid "Unknown satellite"
+msgstr "未知卫星"
+
+msgid "View operation log"
+msgstr "查看操作日志"
+
+msgid "West"
+msgstr "西"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes/No"
+msgstr "是/否"

@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: E2DuplicateChannelsManager 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A new version is available: %s\nCurrent version: %s\n\nDo you want to download and install the update now?\nA plugin backup is created first."
+msgstr ""
+
+msgid "About and safety rules"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "All / none"
+msgstr ""
+
+msgid "All satellites"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Backup and restore"
+msgstr ""
+
+msgid "Backup created:\n%s"
+msgstr ""
+
+msgid "Backup failed:\n%s"
+msgstr ""
+
+msgid "Backup restored.\nPre-restore safety backup: %s"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Channel files synchronized successfully:\n%s"
+msgstr ""
+
+msgid "Channel name"
+msgstr ""
+
+msgid "Channel-file sync completed with warnings:\n%s"
+msgstr ""
+
+msgid "Channel: %s"
+msgstr ""
+
+msgid "Channels Screen"
+msgstr ""
+
+msgid "Channels kept after removal: %d"
+msgstr ""
+
+msgid "Channels to remove: %d"
+msgstr ""
+
+msgid "Check for new version at startup"
+msgstr ""
+
+msgid "Choose a backup"
+msgstr ""
+
+msgid "Choose a backup from another folder"
+msgstr ""
+
+msgid "Choose a satellite, review removable duplicate groups, then select the groups you want to clean."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Compatibility mode (automatic): %s\nPython: %s | Package system: %s\nAutomatic cleanup runs after channel database changes become stable."
+msgstr ""
+
+msgid "Could not save update-check setting:\n%s"
+msgstr ""
+
+msgid "Create a manual backup now"
+msgstr ""
+
+msgid "Create backup only"
+msgstr ""
+
+msgid "Creates a complete backup of channel databases and bouquet files without changing any channels."
+msgstr ""
+
+msgid "DreamOS / Dreambox"
+msgstr ""
+
+msgid "East"
+msgstr ""
+
+msgid "Execute"
+msgstr ""
+
+msgid "Explains the protection rules for Picon-linked services, channel files, backups, and automatic rollback."
+msgstr ""
+
+msgid "First"
+msgstr ""
+
+msgid "Generic Enigma2"
+msgstr ""
+
+msgid "KEEP"
+msgstr ""
+
+msgid "KEEP FOR SAFETY"
+msgstr ""
+
+msgid "Keep rule"
+msgstr ""
+
+msgid "Latest operation messages"
+msgstr ""
+
+msgid "Log lines: %d"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Picon"
+msgstr ""
+
+msgid "No channels are selected for removal."
+msgstr ""
+
+msgid "No operation log is available yet."
+msgstr ""
+
+msgid "No removable duplicate channel names were found."
+msgstr ""
+
+msgid "Not required"
+msgstr ""
+
+msgid "Nothing needs to be changed."
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "OK changes Yes/No. Green confirms the selected satellite."
+msgstr ""
+
+msgid "OK or Green: switch ON/OFF. Red: back."
+msgstr ""
+
+msgid "OK: select/unselect channel | Green: review selected | Yellow: satellite | Blue: select all/none. Picon-linked services are always protected."
+msgstr ""
+
+msgid "ON"
+msgstr ""
+
+msgid "Open Source / OpenPLi / OpenATV"
+msgstr ""
+
+msgid "Operation Log"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "PROTECTED BY PICON"
+msgstr ""
+
+msgid "Picon"
+msgstr ""
+
+msgid "Plugin options"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "REMOVE"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Removal Review"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Restore a previous backup"
+msgstr ""
+
+msgid "Restore failed:\n%s"
+msgstr ""
+
+msgid "Restore: %s"
+msgstr ""
+
+msgid "Restored successfully.\nSafety backup: %s"
+msgstr ""
+
+msgid "Restores a saved backup after first creating a safety backup of the current channel configuration."
+msgstr ""
+
+msgid "Review REMOVE and KEEP rows. KEEP rows are protected and cannot be deleted. Green creates a backup, then executes; Red cancels."
+msgstr ""
+
+msgid "Review selected"
+msgstr ""
+
+msgid "Run automatic cleanup now"
+msgstr ""
+
+msgid "Safety model:\n- watches changes to lamedb, lamedb5 and bouquet files\n- waits until changed files are stable before cleanup\n- creates a complete backup before every write\n- rolls back automatically after a write failure\n- never removes a service reference that has a Picon\n- never deletes, renames, copies or links Picon files\n- replaces bouquet references before deleting unprotected lamedb duplicates\n- if several duplicates all have Picons, they remain protected and are reported"
+msgstr ""
+
+msgid "Satellite"
+msgstr ""
+
+msgid "Satellite Screen"
+msgstr ""
+
+msgid "Satellite list failed:\n%s"
+msgstr ""
+
+msgid "Satellite scan failed:\n%s"
+msgstr ""
+
+msgid "Satellite: %s | Selected: %d/%d"
+msgstr ""
+
+msgid "Satellites"
+msgstr ""
+
+msgid "Scan and review duplicates"
+msgstr ""
+
+msgid "Scans all satellites now and removes only unprotected duplicates after creating a backup."
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select Scan and review duplicates to choose a satellite. Yellow: options. Blue: sync channel files."
+msgstr ""
+
+msgid "Select at least one duplicate channel with OK first."
+msgstr ""
+
+msgid "Service reference"
+msgstr ""
+
+msgid "Services selected for removal: %d"
+msgstr ""
+
+msgid "Shows recent scan, backup, cleanup, synchronization, and error messages."
+msgstr ""
+
+msgid "Switch"
+msgstr ""
+
+msgid "Sync files"
+msgstr ""
+
+msgid "This image does not provide a channel-database sync API."
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Unknown satellite"
+msgstr ""
+
+msgid "Unnamed service"
+msgstr ""
+
+msgid "Up/Down: scroll | Yellow: top | Blue: bottom | Green: refresh."
+msgstr ""
+
+msgid "Update completed successfully.\nVersion: %s\nUpdated files: %d\nBackup: %s\n\nRestart the Enigma2 GUI to activate the new version."
+msgstr ""
+
+msgid "Update failed. The installed plugin was kept unchanged.\n%s"
+msgstr ""
+
+msgid "Use arrows and OK to select/unselect.\nPress Green to confirm the satellite."
+msgstr ""
+
+msgid "Ver : %s"
+msgstr ""
+
+msgid "View operation log"
+msgstr ""
+
+msgid "West"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yes/No"
+msgstr ""
+
+msgid "Yes/No    Satellites                                      Position"
+msgstr ""
